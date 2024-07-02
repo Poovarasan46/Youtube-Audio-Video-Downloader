@@ -28,10 +28,10 @@ This project can be useful in various scenarios, including:
 ### Example
 ```bash
 # Download a video
-python youtube_downloader.py --url https://www.youtube.com/watch?v=video_id
+python yt_video_downloader.py --url https://www.youtube.com/watch?v=video_id
 
 # Download audio only
-python youtube_downloader.py --url https://www.youtube.com/watch?v=video_id --audio
+python yt_audio_downloder.py --url https://www.youtube.com/watch?v=video_id --audio
 
 
 
